@@ -1,102 +1,80 @@
 # section information
 section:
-  name: About
-  id: about
-  enable: true
-  weight: 1
-  showOnNavbar: true
-  template: sections/about.html
+    name: About
+    id: about
+    enable: true
+    weight: 1
+    showOnNavbar: true
+    template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Software Engineer and Data Scientist | Co-Founder and Technical Lead
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+    name: ProseWrite
+    url: "https://www.prosewrite.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "As a software developer and data scientist, I leverage my computer programming foundation and web development insights to craft user-centric solutions. My academic journey, highlighted by an Associate Degree in Computer Programming, complements my hands-on experience at IBM and co-founding an innovative dication service, ProseWrite. I'm passionate about solving interesting problems and constantly learning new things."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "example@gmail.com"
+    - name: Email
+      icon: "fas fa-envelope"
+      url: "tylerchasebrock@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+    - name: Github
+      icon: "fab fa-github"
+      url: "https://www.github.com/toonlunk"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+    - name: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/chase-brock/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+    - title: "My Resume"
+      url: "files/Tyler_Brock.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+    - type: certification
+      name: IBM Apprenticeship Program - Professional Skills
+      url: "https://www.credly.com/badges/8eaa7ff1-2e5b-4a78-b794-2eb8c26f728d/public_url"
+      badge: "https://images.credly.com/size/340x340/images/6518a69d-1cbd-4131-b16a-f8b2e112ad35/Apprenticeship_Program_-_Professional_Skills_-_Updated.png"
 
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+    - type: certification
+      name: IBM Design Thinking - Practitioner
+      url: "https://www.credly.com/badges/4a8c4f37-b652-4f29-a248-3c9807a05962/public_url"
+      badge: "https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
 
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+    - type: certification
+      name: IBM Data Science Methodologies
+      url: "https://www.credly.com/badges/a1042c5e-d4c7-4374-951c-f26edf909b17/public_url"
+      badge: "https://images.credly.com/size/340x340/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+    - type: certification
+      name: IBM Data Science Foundations - Level 2
+      url: "https://www.credly.com/badges/c1394b8b-d823-4649-997f-cb8d3b7d1d5a/public_url"
+      badge: "https://images.credly.com/size/340x340/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big_Data_Found_Level_2_-_CC_v2.png"
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+    - type: certification
+      name: Working in a Digital World - Professional Skills
+      url: "https://www.credly.com/badges/aca726d5-25a4-4984-9ac6-d170b5ffe0bf/public_url"
+      badge: "https://images.credly.com/size/340x340/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png"
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
-
+    - type: certification
+      name: IBM Virtual Collaborator
+      url: "https://www.credly.com/badges/a126e9af-bc72-4e72-b745-2323036afc65/public_url"
+      badge: "https://images.credly.com/size/340x340/images/a660853a-b47c-4950-956f-c8540a5ced74/IBM-Virtual-Collaborator-1.png"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1

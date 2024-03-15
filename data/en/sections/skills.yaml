@@ -1,49 +1,40 @@
 # section information
 section:
-  name: Skills
-  id: skills
-  enable: true
-  weight: 2
-  showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
+    name: Skills
+    id: skills
+    enable: true
+    weight: 2
+    showOnNavbar: true
+    # Can optionally hide the title in sections
+    # hideTitle: true
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+    - name: Python
+      logo: /images/sections/skills/python.png
+      summary: "I have experience in Python, specifically with Data Science and Machine Learning. I have used libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn. I have also used Python for web and API development using FastAPI."
+      url: "https://www.python.org/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+    - name: JavaScript/TypeScript
+      logo: /images/sections/skills/javascript.png
+      summary: "I have experience in JavaScript and TypeScript, specifically in web development using Angular and NodeJS. I have also used JavaScript for API development using ExpressJS."
+      url: "https://www.javascript.com/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+    - name: Linux
+      logo: /images/sections/skills/linux.png
+      summary: "I have used Linux as my primary OS for several years - specifically, Linux Mint. I have experience in using the terminal and bash scripting."
+      url: "https://www.linux.org/"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+    - name: Git
+      logo: /images/sections/skills/git.png
+      summary: "I use Git for version control and have experience using GitHub. I have used Git in both personal and in professional environments."
+      url: "https://git-scm.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+    - name: Cloud Computing
+      logo: /images/sections/skills/cloud.png
+      summary: "I've Worked with Azure, deployed applications on Azure App Service, and Azure Web App service."
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+    - name: Databases
+      logo: /images/sections/skills/postgres.png
+      summary: "I have experience using PostgreSQL and MySQL for database management. I can write complex SQL queries and have experience in database design."
