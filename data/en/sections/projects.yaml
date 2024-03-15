@@ -1,64 +1,59 @@
 # section information
 section:
-  name: Projects
-  id: projects
-  enable: true
-  weight: 5
-  showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
+    name: Projects
+    id: projects
+    enable: true
+    weight: 5
+    showOnNavbar: true
+    # Can optionally hide the title in sections
+    # hideTitle: true
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+    - name: All
+      filter: "all"
+    - name: Professional
+      filter: "professional"
+    - name: Hobby
+      filter: "hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+    - name: ProseWrite
+      logo: /images/sections/projects/prosewrite-small.png
+      role: Owner & Developer
+      timeline: "Dec 2023 - Present"
+      url: "https://www.prosewrite.com"
+      summary: A web-based dictation tool for note-taking and writing.
+      tags: ["professional", "web-dev", "cloud", "nlp"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+    - name: Pfizer
+      logo: /images/sections/projects/pfizer.jpeg
+      role: Data Scientist
+      timeline: "May 2023 - July 2023"
+      url: "https://www.pfizer.com"
+      summary: A project where I worked on gathering data to assist the Quantum team at IBM. We beat the deadline by 50% and the client was happy with the results.
+      tags: ["professional", "data-science"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+    - name: Regeneron
+      logo: /images/sections/projects/regeneron.jpg
+      role: Data Scientist
+      timeline: "Oct 2022 - Nov 2022"
+      url: "https://www.regeneron.com"
+      summary: An IBM client project where I helped build a pipeline to analyze thousands of hours of audio, using NLP to identify patterns; then delivered the findings to the client, securing a multi-year contract.
+      tags: ["professional", "data-science", "nlp"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+    - name: Cultural City Names
+      role: Owner and Developer
+      logo: /images/sections/projects/worldbox.png
+      timeline: "July 2023"
+      repo: https://github.com/ToonLunk/Cultural-City-Names
+      summary: A mod I made for WorldBox which creates names for cities based on the culture of the civilization that founded it. Made with C#. Has over 4,000 downloads.
+      tags: ["hobby", "game-dev"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+    - name: Dwarf Game
+      role: Owner and Developer
+      timeline: "Feb 2024 - Present"
+      repo: https://github.com/ToonLunk/DwarfGame
+      summary: A game I am developing in my free time - a PBBG (Persistent Browser-Based Game) with a focus on community. The game is open-source and built with Python + Angular.
+      tags: ["hobby", "web-dev", "game-dev"]
