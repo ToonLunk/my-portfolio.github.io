@@ -146,7 +146,7 @@ params:
                 #   id: <your counterdev id>
                 # GoatCounter
                 goatCounter:
-                    code: tylercbrock
+                    code: tylercbrock.goatcounter.com
                 # # Matomo / Piwik
                 # matomo:
                 #   instance: matomo.example.com
