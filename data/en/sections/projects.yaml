@@ -57,3 +57,10 @@ projects:
       repo: https://github.com/ToonLunk/DwarfGame
       summary: A game I am developing in my free time - a PBBG (Persistent Browser-Based Game) with a focus on community. The game is open-source and built with Python + Angular.
       tags: ["hobby", "web-dev", "game-dev"]
+
+    - name: Collatz
+      role: Owner and Developer
+      timeline: "August 2021"
+      repo: https://toonlunk.github.io/Collatz/
+      summary: The idea for this program came after watching a video about the Collatz Conjecture.
+      tags: ["hobby", "web-dev"]
