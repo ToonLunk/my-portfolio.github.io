@@ -60,6 +60,7 @@ projects:
 
     - name: Collatz
       role: Owner and Developer
+      logo: /images/sections/projects/collatz.png
       timeline: "August 2021"
       repo: https://toonlunk.github.io/Collatz/
       summary: The idea for this program came after watching a video about the Collatz Conjecture.
