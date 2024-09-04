@@ -10,10 +10,10 @@ section:
 
 # Your experiences
 experiences:
-- company:
+  - company:
       name: Cullman Cabinet & Supply Co.
       url: "https://www.cullmancabinet.com"
-      location: Culman, AL, USA
+      location: Cullman, AL, USA
       logo: /images/sections/experiences/cullman_cabinet.webp
       # company overview
       overview: "At Cullman Cabinet & Supply Co., I work as an Order Processing Specialist, managing orders from initial customer contact to final delivery."
@@ -26,7 +26,7 @@ experiences:
         responsibilities:
           - Manage orders from initial customer contact to final delivery, ensuring timely and accurate processing.
           - Coordinate with sales, production, and delivery teams to meet customer expectations and resolve any issues.
-          - Develop and maintain relationships with customers, providing exceptional service and support throughout the order process. 
+          - Develop and maintain relationships with customers, providing exceptional service and support throughout the order process.
           - Created multiple databases to streamline order processing, reducing errors and improving efficiency.
   - company:
       name: ProseWrite, LLC
