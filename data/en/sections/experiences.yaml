@@ -1,59 +1,78 @@
 # section information
 section:
-    name: Experiences
-    id: experiences
-    enable: true
-    weight: 3
-    showOnNavbar: true
-    # Can optionally hide the title in sections
-    # hideTitle: true
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
 # Your experiences
 experiences:
-    - company:
-          name: ProseWrite, LLC
-          url: "https://www.prosewrite.com"
-          location: USA
-          logo: /images/sections/experiences/prosewrite.png
-          # company overview
-          overview: "As Co-Founder and Technical Lead of ProseWrite, I've led the development of a new dictation software for diverse uses, from business documentation to creative writing."
-      positions:
-          - designation: Co-Founder & Technical Lead
-            start: Dec 2023
-            # don't provide end date if you are currently working there. It will be replaced by "Present"
-            # end: Dec 2020
-            # give some points about what was your responsibilities at the company.
-            responsibilities:
-                - Led development, testing, and deployment of ProseWrite, utilizing Angular, FastAPI, and PostgreSQL.
-                - Successfully raised $5,000 in startup funding from Microsoft's Startup Founders Program.
-                - Oversaw the integration of cloud infrastructure to support scalable, secure application deployment and operation.
+- company:
+      name: Cullman Cabinet & Supply Co.
+      url: "https://www.cullmancabinet.com"
+      location: Culman, AL, USA
+      logo: /images/sections/experiences/cullman_cabinet.webp
+      # company overview
+      overview: "At Cullman Cabinet & Supply Co., I work as an Order Processing Specialist, managing orders from initial customer contact to final delivery."
+    positions:
+      - designation: Order Processing Specialist
+        start: Aug 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Manage orders from initial customer contact to final delivery, ensuring timely and accurate processing.
+          - Coordinate with sales, production, and delivery teams to meet customer expectations and resolve any issues.
+          - Develop and maintain relationships with customers, providing exceptional service and support throughout the order process. 
+          - Created multiple databases to streamline order processing, reducing errors and improving efficiency.
+  - company:
+      name: ProseWrite, LLC
+      url: "https://www.prosewrite.com"
+      location: USA
+      logo: /images/sections/experiences/prosewrite.png
+      # company overview
+      overview: "As Co-Founder and Technical Lead of ProseWrite, I led the development of a new dictation software for diverse uses ranging from authoring novels to transcribing conference calls."
+    positions:
+      - designation: Co-Founder & Technical Lead
+        start: Dec 2023
+        end: Sep 2024
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Led development, testing, and deployment of ProseWrite, utilizing Angular, FastAPI, and PostgreSQL.
+          - Successfully raised $5,000 in startup funding from Microsoft's Startup Founders Program.
+          - Oversaw the integration of cloud infrastructure to support scalable, secure application deployment and operation.
 
-    - company:
-          name: IBM
-          url: "https://www.ibm.com"
-          location: Buffalo, NY, USA
-          logo: /images/sections/experiences/ibm.png
-          overview: "At IBM, I worked closely with industry experts to develop and deploy data driven solutions for clients including Pfizer and AMEX."
-      positions:
-          - designation: Data Science Apprentice
-            start: Nov 2021
-            end: Oct 2023
-            responsibilities:
-                - Completed a rigorous 6-month apprenticeship with industry leaders, earning multiple certifications and moving into roles involving client consulting and leading technical aspects of projects.
-                - Executed comprehensive data cleaning, pre-processing, and feature engineering tasks, laying the groundwork for advanced modeling.
-                - Played a key role in presenting findings to Regeneron Pharmaceuticals, a pivotal contribution that helped secure a multi-year contract with IBM.
-                - Accumulated and processed data during a segment of a high-profile project with Pfizer which was planned to last 6 months. Cut the project deadline in half to 3 months, completing all assigned tasks.
-    - company:
-          name: U.S. Space and Rocket Center
-          url: "https://www.rocketcenter.com"
-          location: Huntsville, AL, USA
-          logo: /images/sections/experiences/ussrc.png
-          overview: "At the U.S. Space and Rocket Center, I worked as a Hospitality Associate, providing support to the Space Camp program and ensuring the safety and well-being of campers."
-      positions:
-          - designation: Hospitality Associate
-            start: Jan 2020
-            end: May 2021
-            responsibilities:
-                - Ensured camper safety and well-being, and worked with security and medical staff to address any issues.
-                - Provided support to the Space Camp program, including meal preparation, cleaning, and maintenance of facilities.
-                - Handled front desk duties, including check-in and check-out, and provided information to visitors, campers, and parents.
+  - company:
+      name: IBM
+      url: "https://www.ibm.com"
+      location: Buffalo, NY, USA
+      logo: /images/sections/experiences/ibm.png
+      overview: "At IBM, I worked closely with industry experts to develop and deploy data driven solutions for clients including Pfizer and AMEX."
+    positions:
+      - designation: Data Science Apprentice
+        start: Nov 2021
+        end: Oct 2023
+        responsibilities:
+          - Completed a rigorous 6-month apprenticeship with industry leaders, earning multiple certifications and moving into roles involving client consulting and leading technical aspects of projects.
+          - Executed comprehensive data cleaning, pre-processing, and feature engineering tasks, laying the groundwork for advanced modeling.
+          - Played a key role in presenting findings to Regeneron Pharmaceuticals, a pivotal contribution that helped secure a multi-year contract with IBM.
+          - Accumulated and processed data during a segment of a high-profile project with Pfizer which was planned to last 6 months. Cut the project deadline in half to 3 months, completing all assigned tasks.
+  - company:
+      name: U.S. Space and Rocket Center
+      url: "https://www.rocketcenter.com"
+      location: Huntsville, AL, USA
+      logo: /images/sections/experiences/ussrc.png
+      overview: "At the U.S. Space and Rocket Center, I worked as a Hospitality Associate, providing support to the Space Camp program and ensuring the safety and well-being of campers."
+    positions:
+      - designation: Hospitality Associate
+        start: Jan 2020
+        end: May 2021
+        responsibilities:
+          - Ensured camper safety and well-being, and worked with security and medical staff to address any issues.
+          - Provided support to the Space Camp program, including meal preparation, cleaning, and maintenance of facilities.
+          - Handled front desk duties, including check-in and check-out, and provided information to visitors, campers, and parents.
