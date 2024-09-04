@@ -1,67 +1,67 @@
 # section information
 section:
-    name: Projects
-    id: projects
-    enable: true
-    weight: 5
-    showOnNavbar: true
-    # Can optionally hide the title in sections
-    # hideTitle: true
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
 # filter buttons
 buttons:
-    - name: All
-      filter: "all"
-    - name: Professional
-      filter: "professional"
-    - name: Hobby
-      filter: "hobby"
+  - name: All
+    filter: "all"
+  - name: Professional
+    filter: "professional"
+  - name: Hobby
+    filter: "hobby"
 
 # your projects
 projects:
-    - name: ProseWrite
-      logo: /images/sections/projects/prosewrite-small.png
-      role: Owner & Developer
-      timeline: "Dec 2023 - Present"
-      url: "https://www.prosewrite.com"
-      summary: A web-based dictation tool for note-taking and writing.
-      tags: ["professional", "web-dev", "cloud", "nlp"]
+  - name: ProseWrite
+    logo: /images/sections/projects/prosewrite-small.png
+    role: Owner & Developer
+    timeline: "Dec 2023 - Sep 2024"
+    url: "https://www.prosewrite.com"
+    summary: A web-based dictation tool for note-taking and writing.
+    tags: ["professional", "web-dev", "cloud", "nlp"]
 
-    - name: Pfizer
-      logo: /images/sections/projects/pfizer.jpeg
-      role: Data Scientist
-      timeline: "May 2023 - July 2023"
-      url: "https://www.pfizer.com"
-      summary: A project where I worked on gathering data to assist the Quantum team at IBM. We beat the deadline by 50% and the client was happy with the results.
-      tags: ["professional", "data-science"]
+  - name: Pfizer
+    logo: /images/sections/projects/pfizer.jpeg
+    role: Data Scientist
+    timeline: "May 2023 - July 2023"
+    url: "https://www.pfizer.com"
+    summary: A project where I worked on gathering data to assist the Quantum team at IBM. We beat the deadline by 50% and the client was happy with the results.
+    tags: ["professional", "data-science"]
 
-    - name: Regeneron
-      logo: /images/sections/projects/regeneron.jpg
-      role: Data Scientist
-      timeline: "Oct 2022 - Nov 2022"
-      url: "https://www.regeneron.com"
-      summary: An IBM client project where I helped build a pipeline to analyze thousands of hours of audio, using NLP to identify patterns; then delivered the findings to the client, securing a multi-year contract.
-      tags: ["professional", "data-science", "nlp"]
+  - name: Regeneron
+    logo: /images/sections/projects/regeneron.jpg
+    role: Data Scientist
+    timeline: "Oct 2022 - Nov 2022"
+    url: "https://www.regeneron.com"
+    summary: An IBM client project where I helped build a pipeline to analyze thousands of hours of audio, using NLP to identify patterns; then delivered the findings to the client, securing a multi-year contract.
+    tags: ["professional", "data-science", "nlp"]
 
-    - name: Cultural City Names
-      role: Owner and Developer
-      logo: /images/sections/projects/worldbox.png
-      timeline: "July 2023"
-      repo: https://github.com/ToonLunk/Cultural-City-Names
-      summary: A mod I made for WorldBox which creates names for cities based on the culture of the civilization that founded it. Made with C#. Has over 4,000 downloads.
-      tags: ["hobby", "game-dev"]
+  - name: Cultural City Names
+    role: Owner and Developer
+    logo: /images/sections/projects/worldbox.png
+    timeline: "July 2023"
+    repo: https://github.com/ToonLunk/Cultural-City-Names
+    summary: A mod I made for WorldBox which creates names for cities based on the culture of the civilization that founded it. Made with C#. Has over 4,000 downloads.
+    tags: ["hobby", "game-dev"]
 
-    - name: Dwarf Game
-      role: Owner and Developer
-      timeline: "Feb 2024 - Present"
-      repo: https://github.com/ToonLunk/DwarfGame
-      summary: A game I am developing in my free time - a PBBG (Persistent Browser-Based Game) with a focus on community. The game is open-source and built with Python + Angular.
-      tags: ["hobby", "web-dev", "game-dev"]
+  - name: Dwarf Game
+    role: Owner and Developer
+    timeline: "Feb 2024 - Present"
+    repo: https://github.com/ToonLunk/DwarfGame
+    summary: A game I am developing in my free time - a PBBG (Persistent Browser-Based Game) with a focus on community. The game is open-source and built with Python + Angular.
+    tags: ["hobby", "web-dev", "game-dev"]
 
-    - name: Collatz
-      role: Owner and Developer
-      logo: /images/sections/projects/collatz.png
-      timeline: "August 2021"
-      repo: https://toonlunk.github.io/Collatz/
-      summary: The idea for this program came after watching a video about the Collatz Conjecture.
-      tags: ["hobby", "web-dev"]
+  - name: Collatz
+    role: Owner and Developer
+    logo: /images/sections/projects/collatz.png
+    timeline: "August 2021"
+    repo: https://toonlunk.github.io/Collatz/
+    summary: The idea for this program came after watching a video about the Collatz Conjecture.
+    tags: ["hobby", "web-dev"]
