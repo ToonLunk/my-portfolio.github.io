@@ -1,5 +1,4 @@
-# filepath: f:\my-portfolio.github.io\config.yaml
-baseURL: "https://github.com/ToonLunk/my-portfolio.github.io"
+baseURL: "https://toonlunk.github.io/my-portfolio/"
 languageCode: "en-us"
 title: "Tyler Brock's Portfolio"
 theme: "toha"
