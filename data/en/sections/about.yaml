@@ -1,19 +1,15 @@
 # section information
 section:
-    name: About
-    id: about
-    enable: true
-    weight: 1
-    showOnNavbar: true
-    template: sections/about.html
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
 
 # your designation
-designation: Software Engineer and Data Scientist | Co-Founder and Technical Lead
+designation: Software Engineer and Data Scientist
 # your company information
-company:
-    name: ProseWrite
-    url: "https://www.prosewrite.com"
-
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
@@ -24,57 +20,57 @@ summary: "As a software developer and data scientist, I leverage my computer pro
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-    - name: Email
-      icon: "fas fa-envelope"
-      url: "tylerchasebrock@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "tylerchasebrock@gmail.com"
 
-    - name: Github
-      icon: "fab fa-github"
-      url: "https://www.github.com/toonlunk"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/toonlunk"
 
-    - name: LinkedIn
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/chase-brock/"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/chase-brock/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-    - title: "My Resume"
-      url: "files/Tyler_Brock.pdf"
+  - title: "My Resume"
+    url: "files/Tyler_Brock.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-    - type: certification
-      name: IBM Apprenticeship Program - Professional Skills
-      url: "https://www.credly.com/badges/8eaa7ff1-2e5b-4a78-b794-2eb8c26f728d/public_url"
-      badge: "https://images.credly.com/size/340x340/images/6518a69d-1cbd-4131-b16a-f8b2e112ad35/Apprenticeship_Program_-_Professional_Skills_-_Updated.png"
+  - type: certification
+    name: IBM Apprenticeship Program - Professional Skills
+    url: "https://www.credly.com/badges/8eaa7ff1-2e5b-4a78-b794-2eb8c26f728d/public_url"
+    badge: "https://images.credly.com/size/340x340/images/6518a69d-1cbd-4131-b16a-f8b2e112ad35/Apprenticeship_Program_-_Professional_Skills_-_Updated.png"
 
-    - type: certification
-      name: IBM Design Thinking - Practitioner
-      url: "https://www.credly.com/badges/4a8c4f37-b652-4f29-a248-3c9807a05962/public_url"
-      badge: "https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
+  - type: certification
+    name: IBM Design Thinking - Practitioner
+    url: "https://www.credly.com/badges/4a8c4f37-b652-4f29-a248-3c9807a05962/public_url"
+    badge: "https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
 
-    - type: certification
-      name: IBM Data Science Methodologies
-      url: "https://www.credly.com/badges/a1042c5e-d4c7-4374-951c-f26edf909b17/public_url"
-      badge: "https://images.credly.com/size/340x340/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png"
+  - type: certification
+    name: IBM Data Science Methodologies
+    url: "https://www.credly.com/badges/a1042c5e-d4c7-4374-951c-f26edf909b17/public_url"
+    badge: "https://images.credly.com/size/340x340/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png"
 
-    - type: certification
-      name: IBM Data Science Foundations - Level 2
-      url: "https://www.credly.com/badges/c1394b8b-d823-4649-997f-cb8d3b7d1d5a/public_url"
-      badge: "https://images.credly.com/size/340x340/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big_Data_Found_Level_2_-_CC_v2.png"
+  - type: certification
+    name: IBM Data Science Foundations - Level 2
+    url: "https://www.credly.com/badges/c1394b8b-d823-4649-997f-cb8d3b7d1d5a/public_url"
+    badge: "https://images.credly.com/size/340x340/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big_Data_Found_Level_2_-_CC_v2.png"
 
-    - type: certification
-      name: Working in a Digital World - Professional Skills
-      url: "https://www.credly.com/badges/aca726d5-25a4-4984-9ac6-d170b5ffe0bf/public_url"
-      badge: "https://images.credly.com/size/340x340/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png"
+  - type: certification
+    name: Working in a Digital World - Professional Skills
+    url: "https://www.credly.com/badges/aca726d5-25a4-4984-9ac6-d170b5ffe0bf/public_url"
+    badge: "https://images.credly.com/size/340x340/images/4f76c627-c180-49ae-a5a0-742885eef581/Working_in_a_Digital_World-_Professional_Skills.png"
 
-    - type: certification
-      name: IBM Virtual Collaborator
-      url: "https://www.credly.com/badges/a126e9af-bc72-4e72-b745-2323036afc65/public_url"
-      badge: "https://images.credly.com/size/340x340/images/a660853a-b47c-4950-956f-c8540a5ced74/IBM-Virtual-Collaborator-1.png"
+  - type: certification
+    name: IBM Virtual Collaborator
+    url: "https://www.credly.com/badges/a126e9af-bc72-4e72-b745-2323036afc65/public_url"
+    badge: "https://images.credly.com/size/340x340/images/a660853a-b47c-4950-956f-c8540a5ced74/IBM-Virtual-Collaborator-1.png"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1

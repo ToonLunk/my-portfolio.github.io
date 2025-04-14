@@ -11,6 +11,19 @@ section:
 # Your experiences
 experiences:
   - company:
+      # name: Freelance - mayve something better?
+      name: Self-Employed
+      url: "https://tylercbrock.com"
+      location: Seattle, WA, USA
+      logo: /images/sections/experiences/tb.png
+    positions:
+      - designation: Freelance Web Developer
+        start: March 2025
+        responsibilities:
+          - Developed and maintained websites for various clients, focusing on user experience and responsive design.
+          - Collaborated with clients to understand their needs and deliver tailored solutions that meet their requirements.
+          - Utilized a wide range of technologies including HTML, CSS, JavaScript, VueJS, and Python to create dynamic and interactive web applications.
+  - company:
       name: Cullman Cabinet & Supply Co.
       url: "https://www.cullmancabinet.com"
       location: Cullman, AL, USA
@@ -19,7 +32,8 @@ experiences:
       overview: "At Cullman Cabinet & Supply Co., I work as an Order Processing Specialist, managing orders from initial customer contact to final delivery."
     positions:
       - designation: Order Processing Specialist
-        start: Aug 2024
+        start: Aug 2024 - March 2025
+        end: Present
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
