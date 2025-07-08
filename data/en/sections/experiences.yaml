@@ -14,8 +14,8 @@ experiences:
       # name: Freelance - mayve something better?
       name: Self-Employed
       url: "https://tylercbrock.com"
-      location: Seattle, WA, USA
-      logo: /images/sections/experiences/tb.png
+      location: Seattle, WA & Birmingham, AL, USA
+      logo: /images/site/tbstudios.jpg
     positions:
       - designation: Freelance Web Developer
         start: March 2025
@@ -27,7 +27,7 @@ experiences:
       name: Cullman Cabinet & Supply Co.
       url: "https://www.cullmancabinet.com"
       location: Cullman, AL, USA
-      logo: /images/sections/experiences/cullman_cabinet.webp
+      logo: /images/sections/experiences/cullman_cabinet.png
       # company overview
       overview: "At Cullman Cabinet & Supply Co., I work as an Order Processing Specialist, managing orders from initial customer contact to final delivery."
     positions:
@@ -45,8 +45,8 @@ experiences:
   - company:
       name: ProseWrite, LLC
       url: "https://www.prosewrite.com"
-      location: USA
-      logo: /images/sections/experiences/prosewrite.png
+      location: Buffalo, NY, USA
+      logo: /images/sections/experiences/pw_logo.png
       # company overview
       overview: "As Co-Founder and Technical Lead of ProseWrite, I led the development of a new dictation software for diverse uses ranging from authoring novels to transcribing conference calls."
     positions:
@@ -65,7 +65,7 @@ experiences:
       name: IBM
       url: "https://www.ibm.com"
       location: Buffalo, NY, USA
-      logo: /images/sections/experiences/ibm.png
+      logo: /images/sections/experiences/ibm_logo.png
       overview: "At IBM, I worked closely with industry experts to develop and deploy data driven solutions for clients including Pfizer and AMEX."
     positions:
       - designation: Data Science Apprentice
@@ -80,7 +80,7 @@ experiences:
       name: U.S. Space and Rocket Center
       url: "https://www.rocketcenter.com"
       location: Huntsville, AL, USA
-      logo: /images/sections/experiences/ussrc.png
+      logo: /images/sections/experiences/ussrc_logo.png
       overview: "At the U.S. Space and Rocket Center, I worked as a Hospitality Associate, providing support to the Space Camp program and ensuring the safety and well-being of campers."
     positions:
       - designation: Hospitality Associate

@@ -20,15 +20,15 @@ buttons:
 # your projects
 projects:
   - name: ProseWrite
-    logo: /images/sections/projects/prosewrite-small.png
+    logo: /images/sections/experiences/pw_logo.png
     role: Owner & Developer
-    timeline: "Dec 2023 - Sep 2024"
+    timeline: "December 2023 - September 2024"
     url: "https://www.prosewrite.com"
     summary: A web-based dictation tool for note-taking and writing.
     tags: ["professional", "web-dev", "cloud", "nlp"]
 
   - name: Pfizer
-    logo: /images/sections/projects/pfizer.jpeg
+    logo: /images/sections/projects/pfizer.png
     role: Data Scientist
     timeline: "May 2023 - July 2023"
     url: "https://www.pfizer.com"
@@ -36,32 +36,57 @@ projects:
     tags: ["professional", "data-science"]
 
   - name: Regeneron
-    logo: /images/sections/projects/regeneron.jpg
+    logo: /images/sections/projects/regeneron.png
     role: Data Scientist
-    timeline: "Oct 2022 - Nov 2022"
+    timeline: "October 2023 - November 2023"
     url: "https://www.regeneron.com"
     summary: An IBM client project where I helped build a pipeline to analyze thousands of hours of audio, using NLP to identify patterns; then delivered the findings to the client, securing a multi-year contract.
     tags: ["professional", "data-science", "nlp"]
 
   - name: Cultural City Names
+    logo: /images/sections/projects/WorldBox.png
     role: Owner and Developer
-    logo: /images/sections/projects/worldbox.png
     timeline: "July 2023"
-    repo: https://github.com/ToonLunk/Cultural-City-Names
-    summary: A mod I made for WorldBox which creates names for cities based on the culture of the civilization that founded it. Made with C#. Has over 4,000 downloads.
+    url: https://gamebanana.com/mods/449696
+    summary: A mod I made for WorldBox which adds customization to city naming. Made with C#, it has over 5,000 downloads and 46k views and was featured on the WorldBox Discord server and is now added to the base game.
     tags: ["hobby", "game-dev"]
 
   - name: Dwarf Game
+    logo: /images/sections/projects/dwarfgame.svg
     role: Owner and Developer
-    timeline: "Feb 2024 - Present"
+    timeline: "February 2024 - Present"
     repo: https://github.com/ToonLunk/DwarfGame
     summary: A game I am developing in my free time - a PBBG (Persistent Browser-Based Game) with a focus on community. The game is open-source and built with Python + Angular.
     tags: ["hobby", "web-dev", "game-dev"]
 
   - name: Collatz
     role: Owner and Developer
-    logo: /images/sections/projects/collatz.png
+    logo: /images/sections/projects/Collatz.png
     timeline: "August 2021"
     repo: https://toonlunk.github.io/Collatz/
     summary: The idea for this program came after watching a video about the Collatz Conjecture.
     tags: ["hobby", "web-dev"]
+
+  - name: AutoLabel
+    role: Owner and Developer
+    logo: /images/sections/projects/Autolabel_icon.png
+    timeline: "December 2024 - February 2025"
+    repo: https://github.com/ToonLunk/AutoLabel-2
+    summary: Auto Label 2 is a customizable tool used to create labels for countertops. It allows users to create labels with custom text, and it can be used for various purposes such as creating labels for countertops, furniture, or other items.
+    tags: ["professional", "tools"]
+
+  - name: HF Formatter
+    role: Owner and Developer
+    logo: /images/sections/projects/hfformatter.png
+    timeline: "September 2021"
+    repo: https://github.com/ToonLunk/AntzzzHFFormatter
+    summary: HF Formatter is a tool for an online game called Antzzz. It automatically formats the text you copy from the game into a more readable format for other players.
+    tags: ["hobby", "game-dev", "tools", "web-dev"]
+
+  - name: Cullman Cabinet Online Ordering
+    role: Owner and Developer
+    logo: /images/sections/experiences/cullman_cabinet.png
+    timeline: "August 2024 - Present"
+    url: "https://cullmancabinet.com"
+    summary: A web application I am developing for Cullman Cabinet to allow customers to order countertops online. The project is in progress and will be completed in 2025.
+    tags: ["professional", "web-dev"]

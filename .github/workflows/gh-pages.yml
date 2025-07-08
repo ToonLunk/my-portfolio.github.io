@@ -8,6 +8,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -25,9 +28,12 @@ jobs:
         run: hugo mod npm pack
       - name: Install npm dependencies
         run: npm install
+      - name: Ensure CNAME file
+        run: echo "tylercbrock.com" > public/CNAME
       - name: Build
         run: hugo --minify
       - name: Deploy
+        id: deployment
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
