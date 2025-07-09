@@ -54,7 +54,7 @@ projects:
   - name: Dwarf Game
     logo: /images/sections/projects/dwarfgame.svg
     role: Owner and Developer
-    timeline: "February 2024 - Present"
+    timeline: "February 2024"
     repo: https://github.com/ToonLunk/DwarfGame
     summary: A game I am developing in my free time - a PBBG (Persistent Browser-Based Game) with a focus on community. The game is open-source and built with Python + Angular.
     tags: ["hobby", "web-dev", "game-dev"]
