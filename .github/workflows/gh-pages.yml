@@ -34,9 +34,11 @@ jobs:
         run: cp CNAME public/CNAME
       - name: Deploy
         id: deployment
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true
+          allow_empty_commit: false
+          keep_files: false
