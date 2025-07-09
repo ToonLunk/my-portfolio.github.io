@@ -44,7 +44,7 @@ projects:
     tags: ["professional", "data-science", "nlp"]
 
   - name: Cultural City Names
-    logo: /images/sections/projects/WorldBox.png
+    logo: /images/sections/projects/worldbox.png
     role: Owner and Developer
     timeline: "July 2023"
     url: https://gamebanana.com/mods/449696
@@ -61,7 +61,7 @@ projects:
 
   - name: Collatz
     role: Owner and Developer
-    logo: /images/sections/projects/Collatz.png
+    logo: /images/sections/projects/collatz.png
     timeline: "August 2021"
     repo: https://toonlunk.github.io/Collatz/
     summary: The idea for this program came after watching a video about the Collatz Conjecture.
@@ -69,7 +69,7 @@ projects:
 
   - name: AutoLabel
     role: Owner and Developer
-    logo: /images/sections/projects/Autolabel_icon.png
+    logo: /images/sections/projects/autolabel_icon.png
     timeline: "December 2024 - February 2025"
     repo: https://github.com/ToonLunk/AutoLabel-2
     summary: Auto Label 2 is a customizable tool used to create labels for countertops. It allows users to create labels with custom text, and it can be used for various purposes such as creating labels for countertops, furniture, or other items.
