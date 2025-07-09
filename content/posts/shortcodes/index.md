@@ -232,4 +232,4 @@ CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 
 ## Embedded PDF
 
-{{< embed-pdf src="/files/resume.pdf" >}}
+{{< embed-pdf src="/files/Tyler_Brock.pdf" >}}
