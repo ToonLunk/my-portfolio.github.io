@@ -30,6 +30,8 @@ jobs:
         run: npm install
       - name: Build
         run: hugo --minify
+      - name: Copy CNAME
+        run: cp CNAME public/CNAME
       - name: Deploy
         id: deployment
         uses: peaceiris/actions-gh-pages@v4
