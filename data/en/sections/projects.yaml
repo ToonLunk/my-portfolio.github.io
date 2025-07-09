@@ -19,7 +19,7 @@ buttons:
 
 # your projects
 projects:
-  - name: ProseWrite
+  - name: ProseWrite Dictation Tools
     logo: /images/sections/experiences/pw_logo.png
     role: Owner & Developer
     timeline: "December 2023 - September 2024"
@@ -70,7 +70,7 @@ projects:
   - name: AutoLabel
     role: Owner and Developer
     logo: /images/sections/projects/autolabel_icon.png
-    timeline: "December 2024 - February 2025"
+    timeline: "January 2025"
     repo: https://github.com/ToonLunk/AutoLabel-2
     summary: Auto Label 2 is a customizable tool used to create labels for countertops. It allows users to create labels with custom text, and it can be used for various purposes such as creating labels for countertops, furniture, or other items.
     tags: ["professional", "tools"]

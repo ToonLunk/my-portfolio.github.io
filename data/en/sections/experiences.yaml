@@ -32,7 +32,7 @@ experiences:
       overview: "At Cullman Cabinet & Supply Co., I work as an Order Processing Specialist, managing orders from initial customer contact to final delivery."
     positions:
       - designation: Order Processing Specialist
-        start: Aug 2024 - March 2025
+        start: August 2024 - March 2025
         end: Present
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
@@ -51,8 +51,8 @@ experiences:
       overview: "As Co-Founder and Technical Lead of ProseWrite, I led the development of a new dictation software for diverse uses ranging from authoring novels to transcribing conference calls."
     positions:
       - designation: Co-Founder & Technical Lead
-        start: Dec 2023
-        end: Sep 2024
+        start: December 2023
+        end: September 2024
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
@@ -69,8 +69,8 @@ experiences:
       overview: "At IBM, I worked closely with industry experts to develop and deploy data driven solutions for clients including Pfizer and AMEX."
     positions:
       - designation: Data Science Apprentice
-        start: Nov 2021
-        end: Oct 2023
+        start: November 2021
+        end: October 2023
         responsibilities:
           - Completed a rigorous 6-month apprenticeship with industry leaders, earning multiple certifications and moving into roles involving client consulting and leading technical aspects of projects.
           - Executed comprehensive data cleaning, pre-processing, and feature engineering tasks, laying the groundwork for advanced modeling.
@@ -84,7 +84,7 @@ experiences:
       overview: "At the U.S. Space and Rocket Center, I worked as a Hospitality Associate, providing support to the Space Camp program and ensuring the safety and well-being of campers."
     positions:
       - designation: Hospitality Associate
-        start: Jan 2020
+        start: January 2020
         end: May 2021
         responsibilities:
           - Ensured camper safety and well-being, and worked with security and medical staff to address any issues.
