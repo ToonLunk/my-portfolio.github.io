@@ -18,7 +18,7 @@ experiences:
       logo: /images/site/tbstudios.jpg
     positions:
       - designation: Freelance Web Developer
-        start: March 2025
+        start: February 2025
         responsibilities:
           - Developed and maintained websites for various clients, focusing on user experience and responsive design.
           - Collaborated with clients to understand their needs and deliver tailored solutions that meet their requirements.
@@ -31,9 +31,19 @@ experiences:
       # company overview
       overview: "At Cullman Cabinet & Supply Co., I work as an Order Processing Specialist, managing orders from initial customer contact to final delivery."
     positions:
-      - designation: Order Processing Specialist
-        start: August 2024 - March 2025
+      - designation: Web Developer
+        start: February 2025
         end: Present
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Planned and sketched out the new ordering website for Cullman Cabinet & Supply, focusing on user experience and responsive design.
+          - Developed the website using modern web technologies, ensuring it is user-friendly and robust.
+          - Am currently working on integrating the company's existing order processing system with the new website to streamline operations and improve efficiency.
+
+      - designation: Order Processing Specialist
+        start: August 2024
+        end: February 2025
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
@@ -42,6 +52,7 @@ experiences:
           - Coordinate with sales, production, and delivery teams to meet customer expectations and resolve any issues.
           - Develop and maintain relationships with customers, providing exceptional service and support throughout the order process.
           - Created multiple databases to streamline order processing, reducing errors and improving efficiency.
+
   - company:
       name: ProseWrite, LLC
       url: "https://www.prosewrite.com"
