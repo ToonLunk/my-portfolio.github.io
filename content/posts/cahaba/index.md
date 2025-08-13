@@ -50,4 +50,6 @@ Please visit their [website](https://www.cahabariversociety.org/) for more infor
 
 Our Cahaba River canoe trip was a very memorable experience. Gliding through the waters, we witnessed incredible scenery while learning about the environmental pressures threatening this unique ecosystem. The experience deepened our commitment to protecting this natural treasure for future generations.
 
+{{< img src="/posts/cahaba/IMG_8700.png" title="Cahaba River" >}}
+
 {{< vs 4 >}}
