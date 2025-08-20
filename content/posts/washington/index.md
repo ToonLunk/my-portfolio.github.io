@@ -16,11 +16,11 @@ mermaid: true
 
 This spring, my wife did a 4-month travel nursing assignment in Washington state. During that time, we got to explore the state and take some photos. Here are some of my favorites.
 
-### Mt. Rainer from afar
+### Mt. Rainier from afar
 
-Mt Rainer as seen from a park in Renton, WA.
+Mt Rainier as seen from a park in Renton, WA.
 
-{{< img src="/posts/washington/rainier_far.JPG" title="Mt Rainer as seen from a park in Renton, WA." >}}
+{{< img src="/posts/washington/rainier_far.JPG" title="Mt Rainier as seen from a park in Renton, WA." >}}
 
 {{< vs 4 >}}
 
@@ -40,11 +40,11 @@ Some lizard/dinosaur-looking creatures I found at Rattlesnake Lake.
 
 {{< vs 4 >}}
 
-### Mt. Rainer National Park
+### Mt. Rainier National Park
 
-We ran into some Canada Jays at Mt. Rainer National Park. Also known as Camp Robbers, these birds are known for stealing food from campers. They are very friendly and will come right up to you. They're in the Corvidae family, which includes crows, ravens, magpies, and blue jays.
+We ran into some Canada Jays at Mt. Rainier National Park. Also known as Camp Robbers, these birds are known for stealing food from campers. They are very friendly and will come right up to you. They're in the Corvidae family, which includes crows, ravens, magpies, and blue jays.
 
-{{< img src="/posts/washington/canada_jay.JPG" title="Canada Jay at Mt. Rainer National Park." >}}
+{{< img src="/posts/washington/canada_jay.JPG" title="Canada Jay at Mt. Rainier National Park." >}}
 
 {{< vs 4 >}}
 
