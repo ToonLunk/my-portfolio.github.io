@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
   - company:
+        name: J.L. Morgan and Associates
+        url: "https://www.jlmorganandassociates.com/"
+        location: Birmingham, AL, USA
+        logo: /images/sections/experiences/jlmlogo.png
+        # company overview
+        overview: "J.L. Morgan and Associates is a healthcare survey company where I work as a Data Processing Specialist, responsible for managing and processing survey data to ensure accuracy and reliability."
+    positions:
+      - designation: Data Processing Specialist
+        start: August 2025
+        end: Present
+        responsibilities:
+          - Manage and process healthcare survey data, ensuring accuracy and reliability.
+          - Collaborate with team members to analyze survey results and generate reports for clients.
+          - Created a customized and automated data auditing system that reduces errors and improves efficiency in data processing tasks.
+
+  - company:
       # name: Freelance - mayve something better?
       name: Self-Employed
       url: "https://tylercbrock.com"
@@ -19,6 +35,7 @@ experiences:
     positions:
       - designation: Freelance Web Developer
         start: February 2025
+        end: August 2025
         responsibilities:
           - Developed and maintained websites for various clients, focusing on user experience and responsive design.
           - Collaborated with clients to understand their needs and deliver tailored solutions that meet their requirements.
