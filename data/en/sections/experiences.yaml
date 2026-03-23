@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
   - company:
-        name: J.L. Morgan and Associates
-        url: "https://www.jlmorganandassociates.com/"
-        location: Birmingham, AL, USA
-        logo: /images/sections/experiences/jlmlogo.png
-        # company overview
-        overview: "J.L. Morgan and Associates is a healthcare survey company where I work as a Data Processing Specialist, responsible for managing and processing survey data to ensure accuracy and reliability."
+      name: J.L. Morgan and Associates
+      url: "https://www.jlmorganandassociates.com/"
+      location: Birmingham, AL, USA
+      logo: /images/sections/experiences/jlmlogo.png
+      # company overview
+      overview: "J.L. Morgan and Associates is a healthcare survey company where I work as a Data Technician, responsible for managing and processing survey data to ensure accuracy and reliability."
     positions:
-      - designation: Data Processing Specialist
+      - designation: Data Technician
         start: August 2025
         end: Present
         responsibilities:

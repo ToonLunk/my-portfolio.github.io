@@ -1,40 +1,41 @@
 # section information
 section:
-    name: Skills
-    id: skills
-    enable: true
-    weight: 2
-    showOnNavbar: true
-    # Can optionally hide the title in sections
-    # hideTitle: true
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-    - name: Python
-      logo: /images/sections/skills/python.png
-      summary: "I have experience in Python, specifically with Data Science and Machine Learning. I have used libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn. I have also used Python for web and API development using FastAPI."
-      url: "https://www.python.org/"
+  - name: Python
+    logo: /images/sections/skills/python.png
+    summary: "I have experience in Python, specifically with Data Science and Machine Learning. I have used libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn. I have also used Python for web and API development using FastAPI."
+    url: "https://www.python.org/"
 
-    - name: JavaScript/TypeScript
-      logo: /images/sections/skills/javascript.png
-      summary: "I have experience in JavaScript and TypeScript, specifically in web development using Angular and NodeJS. I have also used JavaScript for API development using ExpressJS."
-      url: "https://www.javascript.com/"
+  - name: JavaScript/TypeScript
+    logo: /images/sections/skills/javascript.png
+    summary: "I have experience in JavaScript and TypeScript, specifically in web development using Angular and NodeJS. I have also used JavaScript for API development using ExpressJS."
+    url: "https://www.javascript.com/"
 
-    - name: Linux
-      logo: /images/sections/skills/linux.png
-      summary: "I have used Linux as my primary OS for several years - specifically, Linux Mint. I have experience in using the terminal and bash scripting."
-      url: "https://www.linux.org/"
+  - name: Linux
+    logo: /images/sections/skills/linux.png
+    summary: "I have used Linux as my primary OS for several years - specifically, Linux Mint. I have experience in using the terminal and bash scripting."
+    url: "https://www.linux.org/"
 
-    - name: Git
-      logo: /images/sections/skills/git.png
-      summary: "I use Git for version control and have experience using GitHub. I have used Git in both personal and in professional environments."
-      url: "https://git-scm.com/"
+  - name: Git
+    logo: /images/sections/skills/git.png
+    summary: "I have used Git for version control in all my projects. I am familiar with branching, merging, and pull requests."
+    url: "https://git-scm.com/"
 
-    - name: Cloud Computing
-      logo: /images/sections/skills/cloud.png
-      summary: "I've Worked with Azure, deployed applications on Azure App Service, and Azure Web App service."
+  - name: Cloud Computing
+    logo: /images/sections/skills/cloud.png
+    summary: "I've Worked with Azure, deployed applications on Azure App Service, and Azure Web App service."
 
-    - name: Databases
-      logo: /images/sections/skills/postgres.png
-      summary: "I have experience using PostgreSQL and MySQL for database management. I can write complex SQL queries and have experience in database design."
+  - name: Databases
+    logo: /images/sections/skills/postgres.png
+    summary: "I have experience using PostgreSQL and MySQL for database management. I can write complex SQL queries and have experience in database design."
+    url: "https://www.postgresql.org/"

@@ -86,7 +86,7 @@ projects:
   - name: Cullman Cabinet Online Ordering
     role: Owner and Developer
     logo: /images/sections/experiences/cullman_cabinet.png
-    timeline: "August 2024 - Present"
+    timeline: "August 2024 - March 2026"
     url: "https://cullmancabinet.com"
-    summary: A web application I am developing for Cullman Cabinet to allow customers to order countertops online. The project is in progress and will be completed in 2025.
+    summary: A web application I am developing for Cullman Cabinet to allow customers to order countertops online. The project was completed in 2025, and I am currently working on integrating it with the company's existing order processing system.
     tags: ["professional", "web-dev"]
